@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1634
+slug  : the-market-basket
+seal  : b0b0a8baf10ade84257a9f0adf1cf4b1b4a44d3a6a88abe391fe308bbcc8fc11
+prev  : 1b90afc87e55f2c168e14b9316a49283e7b3d200b116169c582bab80d7393cb1
+link  : bc7157952c940fc025942bec4c12e251981f4bcab28ea9e73c58aeb91dcc1393
+head  : 37acb0d0fff95b18cfe00c02dd0e2acc0acb41756a92cec8dab218233efd217f
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
